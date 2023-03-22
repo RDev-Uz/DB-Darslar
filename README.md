@@ -21,7 +21,7 @@ Tasavvur qilaylik bizning saytimiz bor va biz ushbu saytimizga "**Ro'yxatdan o't
 - UPDATE(Yangilash) — ma'lumotlar bazasidagi ma'lumot(lar)ni yangilash uchun qo'llaniladigan SQL so'rov turi;
 - DELETE(O'chirish) — ma'lumotlar bazasidagi ustun yoki undagi qiymatlarni o'chirish uchun qo'llaniladigan SQL so'rov turi.
 
-Hozirda ushbu atamalar va so'zlar sizga chunarsiz bo'lib ko'rinishi mumkin, maqolamiz davomida haqiqiy praktikada chunib olasiz degan umiddamiz.
+Hozirda ushbu atamalar va so'zlar sizga tushunarsiz bo'lib ko'rinishi mumkin, maqolamiz davomida haqiqiy praktikada tushunib olasiz degan umiddamiz.
 
 ## **Kirish qismi**
 
