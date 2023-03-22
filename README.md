@@ -57,7 +57,7 @@ con.close()
 Endi keling kodni chuqurroq ko'rib chiqamiz:
 
 - `con = sqlite3.connect('users.db')` — sqlite3 kutubxonasidagi `connect()` funksiyasi orqali `users.db` ma'lumotlar bazasiga ulanamiz;
-- `cur = con.cursor()` — `con` o'zgaruvchisidan, yani `connect()` ob'yektidan `cursor()` funksiyasini olib, `cur` o'zgaruvchisiga olamiz;
+- `cur = con.cursor()` — `con` o'zgaruvchisidan, ya'ni `connect()` ob'yektidan `cursor()` funksiyasini olib, `cur` o'zgaruvchisiga olamiz;
 - `cur.execute()` — `cur`ning `execute()` funksiyasi orqali biz SQLite so'rovlarni bajaramiz;
 - `sqlite_version = cur.fetchall()` — `execute()` orqali yuborilgan SQLite so'rovdan qaytgan barcha natijalarni olamiz;
 - `con.close()` — Database bilan ulanishni yopamiz.
